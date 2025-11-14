@@ -32,3 +32,30 @@
 
 ## 📁 Project Structure
 
+
+Daniels-Portfolio/
+│
+├─ index.html
+├─ css/
+│ ├─ bootstrap.min.css
+│ ├─ style.css
+│ └─ all.min.css # FontAwesome
+├─ js/
+│ └─ bootstrap.bundle.min.js
+├─ img/
+│ ├─ favicon.ico
+│ ├─ hero.jpg
+│ ├─ portfolio/
+│ │ ├─ 1.jpg
+│ │ ├─ 2.jpg
+│ │ ├─ 3.jpg
+│ │ ├─ 4.jpg
+│ │ ├─ 5.jpg
+│ │ └─ 6.jpg
+│ └─ team/
+│ ├─ 1.jpg
+│ └─ 2.jpg
+
+
+
+
